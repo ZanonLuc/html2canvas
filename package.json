@@ -43,7 +43,7 @@
     "@types/promise-polyfill": "^6.0.3",
     "@typescript-eslint/eslint-plugin": "^4.28.2",
     "@typescript-eslint/parser": "^4.28.2",
-    "appium-ios-simulator": "^3.10.0",
+    "appium-ios-simulator": "^6.2.0",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.5",
     "babel-plugin-add-module-exports": "^1.0.2",
