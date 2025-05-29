@@ -94,7 +94,7 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12",
-    "yargs": "^17.0.1"
+    "yargs": "^18.0.0"
   },
   "scripts": {
     "prebuild": "rimraf dist/ && rimraf build/ && mkdirp dist && mkdirp build",
